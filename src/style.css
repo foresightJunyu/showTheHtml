@@ -37,7 +37,7 @@
 
 @media (max-width: 400px) {
   #html {
-    height: 50px;
+    height: 50vh;
     overflow: auto;
   }
 
